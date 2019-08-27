@@ -1,9 +1,9 @@
 # 差不多先生.../
-unittest： https://docs.python.org/zh-cn/3.7/library/unittest.html
+unittest： https://docs.python.org/zh-cn/3.7/library/unittest.html  单元测试框架
 
 locust ：https://locust.io  压测
 
-records：https://github.com/kennethreitz/records https://pypi.org/project/records/ 数据库操作
+records：https://github.com/kennethreitz/records https://pypi.org/project/records/  数据库操作
 
 nodejs ：http://nodejs.cn/
 
