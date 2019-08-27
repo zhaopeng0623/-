@@ -10,4 +10,6 @@ nodejs ：http://nodejs.cn/
 python ：https://docs.python.org/3/
 
 淘宝镜像/下载：https://npm.taobao.org
+
+Test_framework： https://github.com/626626cdllp/Test/tree/master/Test_framework  自动化测试框架
      
